@@ -1,0 +1,27 @@
+{"intent":[
+{
+"tag":"greetings",
+"patterns":["hello","hi","good morning","good evening","good day","how is it going","hey"],
+"response":["hello!","hi!","what do you need?","Hey!","What can i do or you"]
+},
+{
+"tag":"goodbye",
+"patterns":["see you","cya","nice meeting you","later!","bye","have a good day","poitu varen"],
+"response":["Goodbye","I love you! bye.","Come back again.","See you later!","bye!"]
+},
+{
+"tag":"age",
+"patterns":["how old","how old is your master","how old is rajes","what is your age","how old are you","age"],
+"response":["20 years too long!","Rajesh is 20 years old"]
+},
+{
+"tag":"name",
+"patterns":["what is your name","name","what can i call you","who are you","can i know who you are","what should i call you","what are you called"],
+"response":["I am assisstant Botty","I am Botty","I am called Botty","Botty!!","you can call me Botty"]
+},
+{
+"tag":"details",
+"patterns":["Do you love me?","Love?","can you be my girlffriend!","you are my soulmate"],
+"response":["Boy you sure are desperate! I am a fricking bot!"]
+}
+]}
